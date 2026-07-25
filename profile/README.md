@@ -66,8 +66,6 @@ Leadership rotates each academic year. Current and past organizing teams:
 ### 2022 – 23
 Adarsh Pandey
 
-> Past-year rows are placeholders — fill in with the respective year's team for the historical record.
-
 ## 🤝 Contributing
 
 We welcome contributions from everyone — beginner or expert!
