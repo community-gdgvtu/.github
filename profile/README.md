@@ -52,6 +52,22 @@ Whether you're writing your first line of code or shipping production apps — t
 
 🔗 **[View All Events →](https://gdg.community.dev/gdg-on-campus-visvesvaraya-technological-university-belagavi-india/)**
 
+## 🧑‍💼 Organizers
+
+Leadership rotates each academic year. Current and past organizing teams:
+
+### 2026 – 27
+**[Piyush Annigeri](https://github.com/pixelcrisscross)**
+
+
+### 2025 – 26
+**[Saniya Ladanavar](https://github.com/SaniyaLadanavar16)**
+
+### 2024 – 25
+**Adarsh Pandey
+
+> Past-year rows are placeholders — fill in with the respective year's team for the historical record.
+
 ## 🤝 Contributing
 
 We welcome contributions from everyone — beginner or expert!
