@@ -56,15 +56,15 @@ Whether you're writing your first line of code or shipping production apps — t
 
 Leadership rotates each academic year. Current and past organizing teams:
 
-### 2026 – 27
+### 2025 – 26
 **[Piyush Annigeri](https://github.com/pixelcrisscross)**
 
 
-### 2025 – 26
+### 2024 – 25
 **[Saniya Ladanavar](https://github.com/SaniyaLadanavar16)**
 
-### 2024 – 25
-**Adarsh Pandey
+### 2022 – 23
+Adarsh Pandey
 
 > Past-year rows are placeholders — fill in with the respective year's team for the historical record.
 
