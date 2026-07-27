@@ -5,7 +5,7 @@
 
 **Building | Learning | Growing — Together**
 
-[![Members](https://img.shields.io/badge/Members-900%2B-4285F4?style=flat-square&logo=google)](https://gdg.community.dev/gdg-on-campus-visvesvaraya-technological-university-belgaum-india/)
+[![Members](https://img.shields.io/badge/Members-1000%2B-4285F4?style=flat-square&logo=google)](https://gdg.community.dev/gdg-on-campus-visvesvaraya-technological-university-belgaum-india/)
 [![Events](https://img.shields.io/badge/Events-10%2B-34A853?style=flat-square&logo=google-calendar&logoColor=white)](https://gdg.community.dev/gdg-on-campus-visvesvaraya-technological-university-belgaum-india/)
 [![University](https://img.shields.io/badge/VTU-Belagavi%2C%20Karnataka-EA4335?style=flat-square)](https://vtu.ac.in)
 [![Community](https://img.shields.io/badge/Google%20Dev%20Community-Official%20Chapter-FBBC05?style=flat-square&logo=google)]([https://developers.google.com/community/gdg](https://gdg.community.dev/gdg-on-campus-visvesvaraya-technological-university-belgaum-india/))
