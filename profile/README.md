@@ -1,5 +1,4 @@
 <div align="center">
-<img width="694" height="163" alt="Copy of GDG-Campus-Digital-BevyHeader-2560x650-Green" src="https://github.com/user-attachments/assets/11fcbe02-d1b1-40df-aad7-ad6a1dce13f3" />
 <img width="694" height="163" alt="GDG ANIMATION" src="https://github.com/user-attachments/assets/6345ca8c-ad45-409d-9222-4309f5a52a93" />
   
 # Google Developer Group · VTU
@@ -101,6 +100,7 @@ Please read our [**Contributing Guidelines**](./CONTRIBUTING.md) and follow our 
 ---
 <div align="center">
 
+<img width="694" height="163" alt="Copy of GDG-Campus-Digital-BevyHeader-2560x650-Green" src="https://github.com/user-attachments/assets/11fcbe02-d1b1-40df-aad7-ad6a1dce13f3" />
 <img width="4032" height="815" alt="gdg_devfest" src="https://github.com/user-attachments/assets/b010c06c-3414-4bfb-859a-369eef65bfc6" />
 <img width="3891" height="1945" alt="IMG20260523141656" src="https://github.com/user-attachments/assets/650af389-2d9e-47a1-bb74-8d97efd0b1f9" />
 
