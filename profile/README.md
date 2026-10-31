@@ -2,6 +2,7 @@
 <img width="694" height="163" alt="GDG ANIMATION" src="https://github.com/user-attachments/assets/6345ca8c-ad45-409d-9222-4309f5a52a93" />
   
 # Google Developer Group · VTU
+<img width="2500" height="634" alt="Copy of GDG-Campus-Digital-BevyHeader-2560x650-Green" src="https://github.com/user-attachments/assets/11fcbe02-d1b1-40df-aad7-ad6a1dce13f3" />
 
 **Building | Learning | Growing — Together**
 
